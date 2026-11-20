@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# Noun Serialization
+
+Brian Klatt ~ticlys-monlun, N. E. Davis ~lagrev-nocfep. *Urbit Systems Technical Journal* 3(1), 2026.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389659.svg)](https://doi.org/10.5281/zenodo.24389659) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v03-i01/noun-serialization)
+<!-- /ustj-doi -->
+
 # Urbit Systems Technical Journal—Template Repo
 
 Welcome, prospective USTJ author.  Please keep the following in mind:
